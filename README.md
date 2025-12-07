@@ -269,57 +269,6 @@ The `dist` folder will contain optimized production files.
 2. Publish directory: `dist`
 3. Add environment variables
 
-## 📝 Development Progress
-
-### Phase 1: Core Setup ✅
-
-- [x] Project initialization
-- [x] Tailwind CSS configuration
-- [x] Supabase client setup
-- [x] Base components (Button, Input, Card, Modal, etc.)
-- [x] Routing structure
-
-### Phase 2: Public Site (Next)
-
-- [ ] Landing page with hero and features
-- [ ] Pricing section
-- [ ] Registration form with validation
-- [ ] Login page with pending check
-
-### Phase 3: Admin Panel
-
-- [ ] Admin login
-- [ ] Dashboard with stats
-- [ ] Pending requests management
-- [ ] Create account flow
-- [ ] All restaurants view
-- [ ] Analytics dashboard
-
-### Phase 4: Restaurant Dashboard
-
-- [ ] Orders page with real-time updates
-- [ ] Manual order entry
-- [ ] Order status management
-- [ ] Payment processing
-- [ ] Menu management
-- [ ] QR code generation
-- [ ] Bills and invoicing
-
-### Phase 5: Customer Ordering
-
-- [ ] Public menu page
-- [ ] Cart functionality
-- [ ] Size and addon selection
-- [ ] Order placement
-- [ ] Real-time menu updates
-
-### Phase 6: Polish
-
-- [ ] Animations and transitions
-- [ ] Loading states
-- [ ] Error handling
-- [ ] Print functionality
-- [ ] Performance optimization
 
 ## 🤝 Contributing
 
